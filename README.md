@@ -37,8 +37,8 @@ expense_tracker/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/expense_tracker.git
-cd expense_tracker
+git clone https://github.com/SanmuganathanLathusan/Personal-Expense-Tracker.git
+cd Personal_Expense_Tracker
 ```
 
 ### 2. Run the app
@@ -135,6 +135,7 @@ If you find issues or have feature suggestions, feel free to open an issue.
 This project is open-source and available under the **MIT License**.
 
 ---
+
 
 
 
